@@ -1,4 +1,4 @@
 def hello_world(string):
   print string
 
-hello_world("hello world")
+hello_world("hello, sucka!")
